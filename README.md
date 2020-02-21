@@ -1,1 +1,1 @@
-# cs422-MobileApplicationDevelopment
+# cs442-MobileApplicationDevelopment
